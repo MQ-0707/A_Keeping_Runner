@@ -18,12 +18,12 @@ on:
 
 env:
   # please change to your own config.
-  RUN_TYPE: pass # support runtastic/strava/nike/garmin/garmin_cn/keep, Please change the 'pass' it to your own
-  ATHLETE: yihong0618
-  TITLE: Yihong0618 Running
+  RUN_TYPE: keep # support runtastic/strava/nike/garmin/garmin_cn/keep, Please change the 'pass' it to your own
+  ATHLETE: Runner——MQ
+  TITLE: A Keeping Runner——MQ
   TITLE_GRID: Over 10km Runs
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: MQ0707
+  GITHUB_EMAIL: 1023683859@qq.com
 
 jobs:
   sync:
