@@ -22,8 +22,8 @@ env:
   ATHLETE: Runner——MQ
   TITLE: A Keeping Runner——MQ
   TITLE_GRID: Over 10km Runs
-  GITHUB_NAME: MQ0707
-  GITHUB_EMAIL: 1023683859@qq.com
+  GITHUB_NAME: MQ-0707
+  GITHUB_EMAIL: lwcse35@gmail.com
 
 jobs:
   sync:
