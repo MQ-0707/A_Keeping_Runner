@@ -3232,6 +3232,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 1.7720283595113437,
     "streak": 2
+  },
+  {
+    "run_id": 9223370429766366421,
+    "name": "run from keep",
+    "distance": 1886.3734,
+    "moving_time": "0:14:27",
+    "type": "Run",
+    "start_date": "2020-12-04 13:12:27",
+    "start_date_local": "2020-12-04 21:12:27",
+    "location_country": "{'latitude': 31.406434423467406, 'longitude': 121.34609312498985, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u4e0a\u6d77\u5e02', 'city': '\u4e0a\u6d77\u5e02', 'cityCode': '021'}",
+    "summary_polyline": "aos~DorucVGMEIEMGIQWGIEMGKSUGKGKOYIKIKg@AGLEJGHm@IGOWk@EMGK_@AUXEJEHOPIFYVIHGHIHOTGHEJGHOVKZKVGJEJGLMXGLGJGJ]j@GJIHIHOVMVGLEJGJSX??B@B????????C???DEJCNMZGLEJGJMXEJIJK\\CLKVY`@EJIHGJOVKHMLUVQVCZJXl@ZF@AbAEPA^PRJLFFHFX\\DV@??ABA@AE?JHIFWRMVCNALCJI\\ELCJGh@GJGJCLQXGPELSj@GLGLM\\IJELQXOZENQZGJGLSZQ\\ENQ\\GLGLS\\ILa@d@GJILOZSZILIJUTGJQVOJEHCJAFEFCFEFCHILCJKNCDCDEFGFEBMLGDGFEDGLEHGDKNIDCDKLCFEDEHCFEFCDILCFCFEBCFCBCDGH",
+    "average_heartrate": null,
+    "average_speed": 2.1757478662053056,
+    "streak": 1
   }
 ];
 
